@@ -1,0 +1,33 @@
+SonarQube plugins:
+  - SonarPython 2.3.0.5351 (python)
+  - SonarCSS 1.1.1.1010 (cssfamily)
+  - JaCoCo 1.0.2.475 (jacoco)
+  - SonarGo 1.6.0.719 (go)
+  - SonarKotlin 1.5.0.315 (kotlin)
+  - Svn 1.9.0.1295 (scmsvn)
+  - SonarJS 6.1.0.11503 (javascript)
+  - SonarRuby 1.5.0.315 (ruby)
+  - SonarScala 1.5.0.315 (sonarscala)
+  - SonarC# 8.1.0.13383 (csharp)
+  - SonarJava 5.14.0.18788 (java)
+  - SonarHTML 3.2.0.2082 (web)
+  - Git 1.9.1.1834 (scmgit)
+  - SonarFlex 2.5.1.1831 (flex)
+  - SonarXML 2.0.1.2020 (xml)
+  - SonarPHP 3.3.0.5166 (php)
+  - SonarTS 2.1.0.4359 (typescript)
+  - SonarVB 8.1.0.13383 (vbnet)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AW_mp20JJ3DuCEQ68_Cz
+  - sonar.core.startTime=2020-01-27T16:28:48+0530
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.login=******
+  - sonar.projectBaseDir=D:\Accolite\Angulr2\Project2
+  - sonar.projectKey=Project2
+  - sonar.scanner.app=ScannerCli
+  - sonar.scanner.appVersion=4.2.0.1873
+  - sonar.sourceEncoding=windows-1252
+  - sonar.sources=.
+  - sonar.working.directory=D:\Accolite\Angulr2\Project2\.scannerwork
